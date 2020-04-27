@@ -28,10 +28,6 @@
     Powered by The WuuD Team
 </p>
 
-<p align="center" style="justify-content: space-between">
-        	<img width="300" height="150" src="https://user-images.githubusercontent.com/7850794/37059519-9a190c14-2185-11e8-894f-e82a99f45171.png" alt="pose">
-</p>
-
 ## Build & Run
 
 #### Prerequisite
