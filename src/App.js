@@ -18,7 +18,6 @@ function App() {
             right={true}
             top={true}
             height={80}
-            backgroundColor={"blue"}
             color={"black"}
         >
           <Item
