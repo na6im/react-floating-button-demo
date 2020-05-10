@@ -116,7 +116,7 @@ $ yarn eject
 
 ## Contributing to The Project
 
-Contributing to the project is a piece of :cake:, read the [contributing guidelines](https://github.com/na6im/awsome-floating-button/blob/master/.github/CONTRIBUTING.md). You can discuss the project using the [issues section](https://github.com/na6im/awsome-floating-button/issues/new). To add a line create an issue and send a pull request, see [how to send a pull request](https://github.com/na6im/awsome-floating-button/blob/master/.github/CONTRIBUTING.md).
+Contributing to the project is a piece of :cake:, read the [contributing guidelines](https://github.com/na6im/react-floating-button-demo/blob/master/CONTRIBUTING.md). You can discuss the project using the [issues section](https://github.com/na6im/awsome-floating-button/issues/new). To add a line create an issue and send a pull request, see [how to send a pull request](https://github.com/na6im/awsome-floating-button/blob/master/.github/CONTRIBUTING.md).
 
 ## License
 
